@@ -1,0 +1,2 @@
+# IC-2K25-62-DBMS-NEHA_RATHOD
+DBMS lab programs
