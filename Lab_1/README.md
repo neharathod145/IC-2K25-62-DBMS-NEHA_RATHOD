@@ -305,7 +305,7 @@ The operation is DBMS-dependent. Standard algorithmic Big-O complexity is not di
 
 ### Output
 
-![Question 12 Output](Question%2012.png)
+![Question 12 Output](assig_Q12.jpg.jpeg)
 
 ---
 
@@ -328,7 +328,7 @@ The execution and storage requirements depend on the DBMS and the composite inde
 
 ### Output
 
-![Question 13 Output](Question%2013.png)
+![Question 13 Output](assig_Q13.jpg.jpeg)
 
 ---
 
@@ -353,7 +353,7 @@ The execution cost is DBMS-dependent. Foreign key and unique constraints may req
 
 ### Output
 
-![Question 14 Output](Question%2014.png)
+![Question 14 Output](assig_Q14.jpg.jpeg)
 
 ---
 
@@ -377,7 +377,7 @@ The execution and storage cost depends on the DBMS and indexes used for enforcin
 
 ### Output
 
-![Question 15 Output](Question%2015.png)
+![Question 15 Output](assig_Q15.jpg.jpeg)
 
 ---
 
@@ -401,7 +401,7 @@ Foreign key constraint creation and checking are DBMS-dependent and may involve 
 
 ### Output
 
-![Question 16 Output](Question%2016.png)
+![Question 16 Output](assig_Q16.jpg.jpeg)
 
 ---
 
@@ -426,7 +426,7 @@ The exact execution cost depends on the DBMS implementation and the indexes used
 
 ### Output
 
-![Question 17 Output](Question%2017.png)
+![Question 17 Output](assig_Q17.jpg.jpeg)
 
 ---
 
@@ -450,7 +450,7 @@ This is DBMS-dependent because foreign key and referential action processing dep
 
 ### Output
 
-![Question 18 Output](Question%2018.png)
+![Question 18 Output](assig_Q18.jpg.jpeg)
 
 ---
 
@@ -475,7 +475,7 @@ The execution cost depends on the DBMS implementation and the indexes used for m
 
 ### Output
 
-![Question 19 Output](Question%2019.png)
+![Question 19 Output](assig_Q19.jpg.jpeg)
 
 ---
 
@@ -500,7 +500,7 @@ The execution cost is DBMS-dependent. Standard algorithmic Big-O complexity is n
 
 ### Output
 
-![Question 20 Output](Question%2020.png)
+![Question 20 Output](assig_Q20.jpg.jpeg)
 
 ---
 
