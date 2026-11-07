@@ -69,7 +69,7 @@ This is a DDL operation and standard Big-O complexity is not directly applicable
 
 ### Output
 
-![Question 2 Output](Question%202.png)
+![Question 2 Output](assig_Q2.jpg.jpeg)
 
 ---
 
@@ -92,7 +92,7 @@ The operation is DBMS-dependent and standard algorithmic Big-O complexity is not
 
 ### Output
 
-![Question 3 Output](Question%203.png)
+![Question 3 Output](assig_Q3.jpg.jpeg)
 
 ---
 
@@ -115,7 +115,7 @@ The execution cost depends on the number of records and the DBMS implementation.
 
 ### Output
 
-![Question 4 Output](Question%204.png)
+![Question 4 Output](assig_Q4.jpg.jpeg)
 
 ---
 
@@ -138,7 +138,7 @@ This is a DDL operation. Standard algorithmic Big-O complexity is not directly a
 
 ### Output
 
-![Question 5 Output](Question%205.png)
+![Question 5 Output](assig_Q5.jpg.jpeg)
 
 ---
 
@@ -162,7 +162,7 @@ This is a DDL constraint-definition operation. Standard algorithmic Big-O comple
 
 ### Output
 
-![Question 6 Output](Question%206.png)
+![Question 6 Output](assig_Q6.jpg.jpeg)
 
 ---
 
@@ -185,7 +185,7 @@ The execution cost is DBMS-dependent and standard algorithmic Big-O complexity i
 
 ### Output
 
-![Question 7 Output](Question%207.png)
+![Question 7 Output](assig_Q7.jpg.jpeg)
 
 ---
 
@@ -209,7 +209,7 @@ This is a DDL constraint operation. Standard algorithmic Big-O complexity is not
 
 ### Output
 
-![Question 8 Output](Question%208.png)
+![Question 8 Output](assig_Q8.jpg.jpeg)
 
 ---
 
@@ -232,7 +232,7 @@ The execution and storage requirements depend on the DBMS and the indexes used f
 
 ### Output
 
-![Question 9 Output](Question%209.png)
+![Question 9 Output](assig_Q9.jpg.jpeg)
 
 ---
 
@@ -258,7 +258,7 @@ This is a DDL operation. Standard algorithmic Big-O complexity is not directly a
 
 ### Output
 
-![Question 10 Output](Question%2010.png)
+![Question 10 Output](assig_Q10.jpg.jpeg)
 
 ---
 
@@ -281,7 +281,7 @@ The primary key may require index maintenance. Exact execution and storage cost 
 
 ### Output
 
-![Question 11 Output](Question%2011.png)
+![Question 11 Output](assig_Q11.jpg.jpeg)
 
 ---
 
