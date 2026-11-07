@@ -46,7 +46,7 @@ The query is a DDL operation. Standard algorithmic Big-O time and space complexi
 
 ### Output
 
-![Question 1 Output](Question%201.png)
+Lab_1/assig_Q1.jpg.jpeg
 
 ---
 
