@@ -29,7 +29,7 @@ Write a query to display the name (first_name, last_name) and salary for all emp
 Time Complexity: $O(N)$ linear scan over table rows. Space Complexity: $O(1)$ auxiliary space.
 
 ### Output
-![Question 1 Output](assQ1.jpg)
+![Question 1 Output](ass Q1.jpg)
 
 ---
 
