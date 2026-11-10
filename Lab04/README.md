@@ -1,9 +1,9 @@
-# DBMS Lab 3 Assignment
+# DBMS Lab 4 Assignment
 
 ---
 
 ## Introduction
-This repository contains the comprehensive documentation, SQL implementation scripts, and output screenshots for the Database Management Systems (DBMS) Lab 3 assignment. It covers aggregate functions, grouping data using `GROUP BY`, conditional filtering with `HAVING`, and statistical analysis of employee records using MySQL Workbench.
+This repository contains the comprehensive documentation, SQL implementation scripts, and output screenshots for the Database Management Systems (DBMS) Lab 4 assignment. It covers aggregate functions, grouping data using `GROUP BY`, conditional filtering with `HAVING`, and statistical analysis of employee records using MySQL Workbench.
 
 ---
 
