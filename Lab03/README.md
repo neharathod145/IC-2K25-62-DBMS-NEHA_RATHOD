@@ -1,9 +1,9 @@
-# DBMS Lab 2 Assignment
+# DBMS Lab 3 Assignment
 
 ---
 
 ## Introduction
-This repository contains the comprehensive documentation, SQL implementation scripts, and output screenshots for the Database Management Systems (DBMS) Lab 2 assignment. It covers advanced filtering, conditional selection, pattern matching, sorting, and projection operations using MySQL Workbench.
+This repository contains the comprehensive documentation, SQL implementation scripts, and output screenshots for the Database Management Systems (DBMS) Lab 3 assignment. It covers advanced filtering, conditional selection, pattern matching, sorting, and projection operations using MySQL Workbench.
 
 ---
 
